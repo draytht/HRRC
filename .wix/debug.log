@@ -1,0 +1,90 @@
+----- CLI crash report at 2026-03-27T05:45:40.958Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:45:54.857Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:46:25.386Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:46:49.148Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:47:25.339Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:48:09.187Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:49:49.947Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T05:51:35.214Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}
+----- CLI crash report at 2026-03-27T06:01:54.700Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/program.ts:76:15)
+    at _Command.emit (node:events:508:20)
+    at _Command._parseCommand (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/imcooked/.local/share/mise/installs/node/25.8.2/lib/node_modules/@wix/cli/src/index.tsx:99:39)
+Error Info
+{}

@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "e99ff556-b0f8-4c81-9a08-b84e8465ad36",
+  "projectId": "hrrc"
+}
